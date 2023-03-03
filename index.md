@@ -11,7 +11,9 @@ See my [research articles](publications).
 
 ## Position
 
-I am currently associate professor in the [mathematics department](https://www.mat.uniroma2.it/) of the University of Rome Tor Vergata (in the [mathematical physics](https://www.mat.uniroma2.it/~ricerca/fismat/area.php) group).
+I'm an associate professor in the [mathematics department](https://www.mat.uniroma2.it/) of the University of Rome Tor Vergata (in the [mathematical physics](https://www.mat.uniroma2.it/~ricerca/fismat/area.php) group).
+
+- I am a member of the editorial board of the [Journal of Dynamical and Control Systems](https://www.springer.com/journal/10883/).
 
 ## Past positions
 
